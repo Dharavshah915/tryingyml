@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(){
         printf("Hello World");
-        ptintf("trial");
+        printf("trial");
 }
 
 ~                                                                               
